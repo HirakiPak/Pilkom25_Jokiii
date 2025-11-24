@@ -1,0 +1,5 @@
+{
+  "name": "Joki Tugas AI",
+  "description": "An AI-powered coding assignment helper. Upload your assignment description, and get a complete solution in Python or a Word-friendly format, ready to be downloaded.",
+  "requestFramePermissions": []
+}
